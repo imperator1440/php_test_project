@@ -1,0 +1,2 @@
+<p>Password: {{$mail}}</p>
+ 
